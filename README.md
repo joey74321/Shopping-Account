@@ -1,5 +1,6 @@
 # Shopping-Account
 Demonstrate the functionality and features using a command-line interface.
+
 Each customer has unique id and is linked to exactly one account. 
 Account owns shopping cart and orders. 
 Customer could register as a web user to be able to buy items online. 
